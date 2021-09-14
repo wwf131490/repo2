@@ -1,0 +1,36 @@
+﻿  通讯录管理系统.cpp
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(24): error C2819: “Addressbooks”类型没有重载成员“operator ->”
+  e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(13): note: 参见“Addressbooks”的声明
+  e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(24): note: 是否改用“.”?
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(24): error C2232: “->Addressbooks::personArray”: 左操作数有“class”类型，使用“.”
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(24): error C2232: “->Addressbooks::m_Size”: 左操作数有“class”类型，使用“.”
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(32): error C2819: “Addressbooks”类型没有重载成员“operator ->”
+  e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(13): note: 参见“Addressbooks”的声明
+  e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(32): note: 是否改用“.”?
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(32): error C2232: “->Addressbooks::personArray”: 左操作数有“class”类型，使用“.”
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(32): error C2232: “->Addressbooks::m_Size”: 左操作数有“class”类型，使用“.”
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(40): error C2819: “Addressbooks”类型没有重载成员“operator ->”
+  e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(13): note: 参见“Addressbooks”的声明
+  e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(40): note: 是否改用“.”?
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(40): error C2232: “->Addressbooks::personArray”: 左操作数有“class”类型，使用“.”
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(40): error C2232: “->Addressbooks::m_Size”: 左操作数有“class”类型，使用“.”
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(44): error C2819: “Addressbooks”类型没有重载成员“operator ->”
+  e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(13): note: 参见“Addressbooks”的声明
+  e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(44): note: 是否改用“.”?
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(44): error C2232: “->Addressbooks::personArray”: 左操作数有“class”类型，使用“.”
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(44): error C2232: “->Addressbooks::m_Size”: 左操作数有“class”类型，使用“.”
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(48): error C2819: “Addressbooks”类型没有重载成员“operator ->”
+  e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(13): note: 参见“Addressbooks”的声明
+  e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(48): note: 是否改用“.”?
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(48): error C2232: “->Addressbooks::personArray”: 左操作数有“class”类型，使用“.”
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(48): error C2232: “->Addressbooks::m_Size”: 左操作数有“class”类型，使用“.”
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(49): error C2819: “Addressbooks”类型没有重载成员“operator ->”
+  e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(13): note: 参见“Addressbooks”的声明
+  e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(49): note: 是否改用“.”?
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(49): error C2232: “->Addressbooks::m_Size”: 左操作数有“class”类型，使用“.”
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(54): error C2059: 语法错误:“}”
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(54): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(55): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(55): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(207): error C2664: “void addPerson(Addressbooks &)”: 无法将参数 1 从“Addressbooks *”转换为“Addressbooks &”
+e:\vs项目\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(210): error C3861: “showPerson”: 找不到标识符
